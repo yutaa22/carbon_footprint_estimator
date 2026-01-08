@@ -124,8 +124,8 @@ This project aligns with the following UN Sustainable Development Goals:
 
 ## Authors
 
-- **Name(s):** Add your name
-- **Institution:** Add your college name
+- **Name(s):** Panyuta Panigrahi & Devashree Pawar
+- **Institution:** Shah & Anchor Kutchhi Engineering College
 
 ---
 
